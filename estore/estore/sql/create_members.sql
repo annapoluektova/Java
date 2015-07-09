@@ -1,0 +1,8 @@
+CREATE TABLE members (
+  first_name VARCHAR(45) NOT NULL,
+  last_name VARCHAR(45) NOT NULL,
+  email VARCHAR(45) NOT NULL,
+  uname VARCHAR(45) NOT NULL PRIMARY KEY,
+  pass VARCHAR(45) NOT NULL,
+  )
+  
